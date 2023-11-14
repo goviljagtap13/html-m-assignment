@@ -1,0 +1,25 @@
+3. Write an HTML program that includes a heading, a paragraph of text, a horizontal line, and a line break.
+Arrange these elements to create a simple web page layout.
+
+Solution:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simple webpage layout</title>
+</head>
+<body>
+    <!-- This is first heading of the webpage -->
+    <h1>3rd webpage</h1>
+
+    <p>Lorem ipsum dolor sit  amet, consectetur adipisicing elit. Officia amet consequatur quasi. Nostrum repudiandae dolore ex eos repellat quas error, illo quisquam, eum accusantium distinctio quia blanditiis voluptas ad temporibus provident ut eius fugit praesentium laboriosam quae totam quis! Quo exercitationem animi repellendus ipsum quae. Ea delectus amet nostrum sed.</p>
+    <!-- used lorem, latin text to add content in paragraph -->
+    <hr>
+    <!-- 
+        line break tag breaks the line of the text within paragrapth
+     -->
+    <p>Lorem ipsum dolor <br> sit amet Lorem <br> ipsum dolor sit amet, consectetur adipisicing elit. Iusto, voluptatem!.</p>
+</body>
+</html>

@@ -1,0 +1,21 @@
+4. Write a short note on Tag and element with an example.
+Solution:
+
+Tags:
+Tags are the symbols used to mark up the start and end of an HTML element. They appear in 
+pairs, enclosed within angle brackets (< >). For instance, the <p> tag indicates the
+beginning of a paragraph, and its corresponding closing tag, </p>, marks the end. Tags 
+provide the framework for structuring a web page's content.
+
+
+Element:
+
+Elements, represent the actual content defined by the tags. They 
+encompass the text, images, or other media enclosed within the tag pair. Elements 
+encapsulate the meaningful units that make up a web page's structure and presentation.
+
+<p>this paragramph is lorem</p>
+
+In this case, the <p> tag marks the start of the element, while the closing tag, </p>, 
+marks the end. The text, "This is a paragraph of lorem," is the element itself, the actual 
+content defined by the <p> tag.
